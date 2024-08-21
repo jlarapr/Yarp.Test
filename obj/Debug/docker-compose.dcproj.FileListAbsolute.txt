@@ -1,0 +1,17 @@
+C:\Users\jlara\source\devTalles\myYarp\Yarp.Test\bin\Debug\Yarp.Test.Api.deps.json
+C:\Users\jlara\source\devTalles\myYarp\Yarp.Test\bin\Debug\Yarp.Test.Api.runtimeconfig.json
+C:\Users\jlara\source\devTalles\myYarp\Yarp.Test\bin\Debug\appsettings.Development.json
+C:\Users\jlara\source\devTalles\myYarp\Yarp.Test\bin\Debug\appsettings.json
+C:\Users\jlara\source\devTalles\myYarp\Yarp.Test\bin\Debug\Yarp.Test.Api.exe
+C:\Users\jlara\source\devTalles\myYarp\Yarp.Test\bin\Debug\Yarp.Test.Gateway.deps.json
+C:\Users\jlara\source\devTalles\myYarp\Yarp.Test\bin\Debug\Yarp.Test.Gateway.runtimeconfig.json
+C:\Users\jlara\source\devTalles\myYarp\Yarp.Test\bin\Debug\Yarp.Test.Gateway.exe
+C:\Users\jlara\source\devTalles\myYarp\Yarp.Test\bin\Debug\Yarp.Test.Api.dll
+C:\Users\jlara\source\devTalles\myYarp\Yarp.Test\bin\Debug\Yarp.Test.Gateway.dll
+C:\Users\jlara\source\devTalles\myYarp\Yarp.Test\bin\Debug\Yarp.ReverseProxy.dll
+C:\Users\jlara\source\devTalles\myYarp\Yarp.Test\bin\Debug\System.IO.Hashing.dll
+C:\Users\jlara\source\devTalles\myYarp\Yarp.Test\bin\Debug\Yarp.Test.Api.pdb
+C:\Users\jlara\source\devTalles\myYarp\Yarp.Test\bin\Debug\Yarp.Test.Gateway.pdb
+C:\Users\jlara\source\devTalles\myYarp\Yarp.Test\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\jlara\source\devTalles\myYarp\Yarp.Test\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\jlara\source\devTalles\myYarp\Yarp.Test\obj\Debug\docker-c.35A3FFBA.Up2Date

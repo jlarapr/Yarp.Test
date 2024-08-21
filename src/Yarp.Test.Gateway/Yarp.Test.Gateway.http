@@ -1,0 +1,7 @@
+@Yarp.Test.Gateway_HostAddress = https://localhost:7153/
+
+### GET /
+GET {{Yarp.Test.Gateway_HostAddress}}
+Accept: application/json
+
+###
